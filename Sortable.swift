@@ -1,6 +1,5 @@
 //
 //  Sortable.swift
-//  Opinet
 //
 //  Created by pjy on 2023/12/06.
 //
